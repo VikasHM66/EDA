@@ -1,5 +1,5 @@
 # EDA
-Repository Containing of mini projects and notebooks of Exploratory data analysis on different datasets completed by me for academic purpose and self Learning. Presented in iPython Notebooks.
+
 
 ## Contents.
 - ### Exploratory Data Analysis.
